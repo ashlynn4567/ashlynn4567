@@ -1,7 +1,11 @@
 # Hello, I'm Ashley!
 
-## Avid learner, creative mind
-- Check out my website <a href="">here</a>!
+### About Me
+- 📚 I am currently a bootcamp student enrolled in the University of Oregon's <a href="https://bootcamp.uoregon.edu/coding/">Coding Boot Camp</a>.
+- 💻 My plans are to become a full stack web developer, with a focus in front-end technologies. 
+- 🎯 Personal Hobbies: I like to draw in my free time. I have plans to become a freelance artist on the side. Otherwise, I play video games to pass the time. 
+- ⚡ Fun facts about me: I have two cats named Finn and Nala. 
+- ✨ Check out my website <a href="">here</a>!
 
 <!--
 **ashlynn4567/ashlynn4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +23,6 @@ Here are some ideas to get you started:
 -->
 
 ## Languages, Tools, and Stats
-
-<br>
 
 <p align="center">
   <div align="center">
@@ -45,27 +47,4 @@ Here are some ideas to get you started:
     <img alt="jQuery" width="35px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" />
     <img alt="Bootstrap" width="35px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
    </div>
-</p>
-
-## Contact Me
-
-<br>
-
-<p align="center">
-  <div align="center">
-    <img alt="Email" width="35px" src="./Icons/EmailIcon.svg" />
-    [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-    [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-    [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-    [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-    &nbsp;&nbsp;
-    [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-    [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-  </div>
 </p>
