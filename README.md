@@ -7,7 +7,7 @@
 - ⚡ Fun facts about me: I have two cats named Finn and Nala. 
 - ✨ Check out my website <a href="">here</a>!
 
-## Languages, Tools, and Stats
+## Stats, Languages, and Tools Used
 
 <div align="center">
 
