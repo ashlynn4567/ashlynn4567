@@ -21,10 +21,9 @@
     <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/ashlynn4567/ashlynn4567/d4cd640de0df07f13ffd80f31498ec40a053184c/Icons/GitHubIcon.svg" />
     <img alt="jQuery" width="35px" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" />
     <img alt="Bootstrap" width="35px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-    <img alt="Tailwind" width="50px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
+    <img alt="Tailwind" width="45px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
    </div>
 
   <br>
