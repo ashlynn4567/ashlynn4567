@@ -11,8 +11,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/ashlynn4567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashlynn4567&show_icons=true&theme=ayu-mirage" alt="Ashley's GitHub Stats" /></a> | <a href="https://github.com/ashlynn4567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlynn4567&show_icons=true&theme=ayu-mirage&layout=compact" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/ashlynn4567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashlynn4567&show_icons=true&theme=ayu-mirage" alt="Ashley's GitHub Stats" /></a>
 
   <br>
   
@@ -27,4 +26,8 @@
     <img alt="Bootstrap" width="35px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
     <img alt="Tailwind" width="50px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
    </div>
+
+  <br>
+
+<a href="https://github.com/ashlynn4567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlynn4567&show_icons=true&theme=ayu-mirage&layout=compact" /></a>
 </div>
