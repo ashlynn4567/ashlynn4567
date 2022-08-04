@@ -44,8 +44,4 @@
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
    </div>
-
-  <br>
-
-<a href="https://github.com/ashlynn4567/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlynn4567&show_icons=true&theme=ayu-mirage&layout=compact" /></a>
 </div>
