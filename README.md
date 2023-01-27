@@ -1,5 +1,3 @@
-# Hello, I'm Ashley!
-
 ![LinkedIn Banner](banner.png)
 
 ### About Me
