@@ -1,6 +1,6 @@
 ![LinkedIn Banner](banner.png)
 
-### About Me
+## About Me
 
 - 💻 I am currently employed as a junior Full-Stack Web Developer on the Create Reservations team with Alaska Airlines.
 - 🎓 I have a background in Neuroscience, having earned my Bachelor of Science degree from Ohio State University. I have also completed the University of Oregon's <a href="https://bootcamp.uoregon.edu/coding/">Coding Boot Camp</a> and earned my certification.
