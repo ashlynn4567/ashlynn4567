@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 I am currently employed as a junior Full-Stack Web Developer on the Create Reservations team with Alaska Airlines.
+- 💻 I am currently seeking employment as a mid-level Full-Stack Software Engineer. Please feel free to reach out to me at ashleylynnsmith.dev@gmail.com with new of new opportunities!
 - 🎓 I have a background in Neuroscience, having earned my Bachelor of Science degree from Ohio State University. I have also completed the University of Oregon's <a href="https://bootcamp.uoregon.edu/coding/">Coding Boot Camp</a> and earned my certification.
 - 🎯 Personal Hobbies: I like to draw and paint in my free time. I have plans to become a freelance artist on the side to scratch my ever-present creative itch. Otherwise, I play video games to pass the time.
 - ⚡ Fun facts about me: I have two cats named Finn and Nala. Sometimes I take them on walks outside.
@@ -41,12 +41,17 @@
     <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-    <br>
+     <br>
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-   </div>
+      <br>
+     <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+     <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" />
+     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 </div>
