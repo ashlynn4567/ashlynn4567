@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 I am currently seeking employment as a mid-level Full-Stack Software Engineer. Please feel free to reach out to me at ashleylynnsmith.dev@gmail.com with new of new opportunities!
+- 💻 I am currently a mid-level Full-Stack Software Engineer at ProSight. However, I'm always looking to grow! Please feel free to reach out to me at ashleylynnsmith.dev@gmail.com with new of new opportunities.
 - 🎓 I have a background in Neuroscience, having earned my Bachelor of Science degree from Ohio State University. I have also completed the University of Oregon's <a href="https://bootcamp.uoregon.edu/coding/">Coding Boot Camp</a> and earned my certification.
 - 🎯 Personal Hobbies: I like to draw and paint in my free time. I have plans to become a freelance artist on the side to scratch my ever-present creative itch. Otherwise, I play video games to pass the time.
 - ⚡ Fun facts about me: I have two cats named Finn and Nala. Sometimes I take them on walks outside.
